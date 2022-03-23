@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "414177253186",
+    "project_id": "greentree-c2c50",
+    "storage_bucket": "greentree-c2c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414177253186:android:fbf3b7b4fc9134d6c19adb",
+        "android_client_info": {
+          "package_name": "com.flutterflow.greentree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414177253186-nomtc1idj82k5h7k5dk1lt612vlkn64u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.greentree",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "414177253186-lb459s04u9sd0aivf2561lochuh8sa2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsIdxcoZPUzAfXAZUB9v-coMS1BilYfm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414177253186-lb459s04u9sd0aivf2561lochuh8sa2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414177253186-f26ril7g8f4kgb4vh54ef73t6hds8i17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.greentree"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
