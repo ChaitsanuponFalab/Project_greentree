@@ -85,44 +85,61 @@ https://youtu.be/aqakb8qYCek
 
 
 #### หน้าสมัครสมาชิก 
+![Screenshot 2022-03-23 172702](https://user-images.githubusercontent.com/86649956/159686291-4c94f724-ebf9-4d1a-9068-efb970a36d2e.png)
+![Screenshot 2022-03-23 172716](https://user-images.githubusercontent.com/86649956/159686294-551f0f42-9207-4910-a9d4-da106ddcaed7.png)
 
 
 
-##### หน้าลืมรหัสผ่าน
+#### หน้าลืมรหัสผ่าน
+![Screenshot 2022-03-23 172635](https://user-images.githubusercontent.com/86649956/159686303-3870f729-0002-4d44-8bfb-548adf900894.png)
+![Screenshot 2022-03-23 172647](https://user-images.githubusercontent.com/86649956/159686309-75a7847e-113e-4578-8bbc-b1b30069bec3.png)
 
 
 
 #### หน้าหลัก
+![Screenshot 2022-03-23 172746](https://user-images.githubusercontent.com/86649956/159686323-b5a40b8d-5c13-47ff-8f31-2a8db29effb6.png)
 
 
 #### หน้ารายการสินค้า
+![Screenshot 2022-03-23 172757](https://user-images.githubusercontent.com/86649956/159686331-8b912d4e-d416-4799-8a8d-aa868f23746f.png)
 
 
 #### หน้ารายละเอียดสินค้า
+![Screenshot 2022-03-23 172829](https://user-images.githubusercontent.com/86649956/159686342-e553d878-5739-48e6-96e8-981cd85e8c8f.png)
 
 
 
 #### หน้าชำระเงิน
+![Screenshot 2022-03-23 172916](https://user-images.githubusercontent.com/86649956/159686356-ba825392-323e-400d-a74e-55abc5356059.png)
+![Screenshot 2022-03-23 172942](https://user-images.githubusercontent.com/86649956/159686362-bb95f385-5205-4b79-9b63-776f9e133626.png)
 
 
 #### หน้าโปรไฟล์การซื้อ/การขาย
-
+![Screenshot 2022-03-23 172903](https://user-images.githubusercontent.com/86649956/159686397-6ca6feb7-356c-4bd4-a084-923a5d1860b8.png)
 
 #### หน้ารถเข็นสินค้า
-
+![Screenshot 2022-03-23 172927](https://user-images.githubusercontent.com/86649956/159686437-063c3c83-d6ee-4700-89c8-4d24a8f3ee9c.png)
 
 
 #### หน้าสินค้าที่ถูกใจ
+![Screenshot 2022-03-23 172958](https://user-images.githubusercontent.com/86649956/159686506-0298714e-ade3-4043-8d9f-29e20e9e1786.png)
 
 
 
 #### หน้ารายการสินค้าของร้านตัวเอง
+![Screenshot 2022-03-23 173050](https://user-images.githubusercontent.com/86649956/159686570-84965753-c4bf-45c3-b8ba-12e79b420438.png)
+
 
 
 #### หน้าเพิ่มสินค้า
+![Screenshot 2022-03-23 173012](https://user-images.githubusercontent.com/86649956/159686520-63b7047a-901b-4dfc-ac21-9601824808fc.png)
+![Screenshot 2022-03-23 173036](https://user-images.githubusercontent.com/86649956/159686546-f5dc346d-cc24-46f2-9f57-b983a50da2fb.png)
+![Screenshot 2022-03-23 173023](https://user-images.githubusercontent.com/86649956/159686558-51c2d077-ccbe-43a1-890b-e851b5d9bafa.png)
 
 
 #### หน้าฟีดข่าว
+![Screenshot 2022-03-23 172813](https://user-images.githubusercontent.com/86649956/159686482-ee134711-400e-41e3-853f-14bb60981e02.png)
 
 
 #### หน้าแจ้งเตือน
+![Screenshot 2022-03-23 171945](https://user-images.githubusercontent.com/86649956/159686781-daa3a82e-ce67-48fd-9dd2-67df9ad7c33d.png)
