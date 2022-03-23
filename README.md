@@ -1,7 +1,8 @@
 ## GreenTree
 
 ## ที่มาและความสำคัญ
-  เกิดจากการซื้อขายต้นไม้ต้องเดินทางไปตามจุดที่ขาย 
+  การเลือกซื้อต้นไม้ในแต่ละพื้นที่มีต้นไม้ที่แตกต่างกัน  เพื่ออำนวยความสะดวกในการเดินทางไปซื้อต่างพื้นที่ที่มีระยะทางไกลและการหาร้านชายต้นที่เราสนใจไม่เจอ 
+จึงทำแอป Greentree เพื่อช่วยในการซื้อและการขายที่สะดวกขึ้น 
 
 ## Getting Started
 
@@ -31,6 +32,7 @@ https://youtu.be/aqakb8qYCek
 #### หน้าสมัครสมาชิก 
 ![Screenshot 2022-03-23 165831](https://user-images.githubusercontent.com/86649956/159683360-51aeac4d-b702-481c-a60e-a5a59a085cb7.png)
 ![Screenshot 2022-03-23 165851](https://user-images.githubusercontent.com/86649956/159683371-9fc2a0e4-9c61-4a31-96c0-5d5bfde906e4.png)
+
 
 
 ##### หน้าลืมรหัสผ่าน
@@ -79,7 +81,8 @@ https://youtu.be/aqakb8qYCek
 ![Screenshot 2022-03-23 170131](https://user-images.githubusercontent.com/86649956/159683794-48a59941-2592-4b32-91fc-ca0814f6d93d.png)
 
 
-## Mobile application
+
+# Mobile application
 #### หน้าล็อคอิน
 ![Screenshot 2022-03-23 180340](https://user-images.githubusercontent.com/86649956/159685576-21812f53-251c-4987-8e15-d466c4572c1c.png)
 
@@ -116,6 +119,7 @@ https://youtu.be/aqakb8qYCek
 
 #### หน้าโปรไฟล์การซื้อ/การขาย
 ![Screenshot 2022-03-23 172903](https://user-images.githubusercontent.com/86649956/159686397-6ca6feb7-356c-4bd4-a084-923a5d1860b8.png)
+![Screenshot 2022-03-23 172019](https://user-images.githubusercontent.com/86649956/159687247-9c1473e1-7431-4fe7-85f6-5ab13ea2375f.png)
 
 #### หน้ารถเข็นสินค้า
 ![Screenshot 2022-03-23 172927](https://user-images.githubusercontent.com/86649956/159686437-063c3c83-d6ee-4700-89c8-4d24a8f3ee9c.png)
