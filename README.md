@@ -24,6 +24,8 @@ This command creates the generated files that parse each Record from Firestore i
 
 ## clip demo
 https://youtu.be/aqakb8qYCek
+https://youtu.be/4jg3QkrsOqM
+
 
 ## User Interface Design
 #### หน้าล็อคอิน
